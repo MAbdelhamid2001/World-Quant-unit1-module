@@ -1,1 +1,2 @@
-# World-Quant-unit1-module
+# World-Quant-1st-module
+Notebooks and miniprojects are included
